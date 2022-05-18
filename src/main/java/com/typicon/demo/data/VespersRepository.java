@@ -5,6 +5,6 @@ import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
 @Repository
-public interface VespersRepository extends CrudRepository<Vespers, Integer>{
+public interface VespersRepository /*extends CrudRepository<Vespers, Integer>*/{
 
 }
