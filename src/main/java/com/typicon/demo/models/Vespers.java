@@ -1,4 +1,4 @@
-package com.typicon.demo;
+package com.typicon.demo.models;
 
 
 public class Vespers {
